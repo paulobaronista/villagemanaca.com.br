@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'Futura Std';
+  src: url("../fonts/FuturaStd-Book.eot");
+  src: url("../fonts/FuturaStd-Book.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaStd-Book.woff2") format("woff2"), url("../fonts/FuturaStd-Book.woff") format("woff"), url("../fonts/FuturaStd-Book.ttf") format("truetype"), url("../fonts/FuturaStd-Book.svg#FuturaStd-Book") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gill Sans MT';
+  src: url("../fonts/GillSansMT.eot");
+  src: url("../fonts/GillSansMT.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansMT.woff2") format("woff2"), url("../fonts/GillSansMT.woff") format("woff"), url("../fonts/GillSansMT.ttf") format("truetype"), url("../fonts/GillSansMT.svg#GillSansMT") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura Std';
+  src: url("../fonts/FuturaStd-Bold.eot");
+  src: url("../fonts/FuturaStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaStd-Bold.woff2") format("woff2"), url("../fonts/FuturaStd-Bold.woff") format("woff"), url("../fonts/FuturaStd-Bold.ttf") format("truetype"), url("../fonts/FuturaStd-Bold.svg#FuturaStd-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gill Sans Std';
+  src: url("../fonts/GillSansStd-Bold.eot");
+  src: url("../fonts/GillSansStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansStd-Bold.woff2") format("woff2"), url("../fonts/GillSansStd-Bold.woff") format("woff"), url("../fonts/GillSansStd-Bold.ttf") format("truetype"), url("../fonts/GillSansStd-Bold.svg#GillSansStd-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gill Sans Std';
+  src: url("../fonts/GillSansStd.eot");
+  src: url("../fonts/GillSansStd.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansStd.woff2") format("woff2"), url("../fonts/GillSansStd.woff") format("woff"), url("../fonts/GillSansStd.ttf") format("truetype"), url("../fonts/GillSansStd.svg#GillSansStd") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gill Sans MT';
+  src: url("../fonts/GillSansMT-Bold.eot");
+  src: url("../fonts/GillSansMT-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansMT-Bold.woff2") format("woff2"), url("../fonts/GillSansMT-Bold.woff") format("woff"), url("../fonts/GillSansMT-Bold.ttf") format("truetype"), url("../fonts/GillSansMT-Bold.svg#GillSansMT-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue LT Std';
+  src: url("../fonts/HelveticaNeueLTStd-Md.eot");
+  src: url("../fonts/HelveticaNeueLTStd-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueLTStd-Md.woff2") format("woff2"), url("../fonts/HelveticaNeueLTStd-Md.woff") format("woff"), url("../fonts/HelveticaNeueLTStd-Md.ttf") format("truetype"), url("../fonts/HelveticaNeueLTStd-Md.svg#HelveticaNeueLTStd-Md") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  src: url("../fonts/ITCAvantGardeStd-Bk.eot");
+  src: url("../fonts/ITCAvantGardeStd-Bk.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Bk.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Bk.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Bk.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Bk.svg#ITCAvantGardeStd-Bk") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue LT Std';
+  src: url("../fonts/HelveticaNeueLTStd-Roman.eot");
+  src: url("../fonts/HelveticaNeueLTStd-Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueLTStd-Roman.woff2") format("woff2"), url("../fonts/HelveticaNeueLTStd-Roman.woff") format("woff"), url("../fonts/HelveticaNeueLTStd-Roman.ttf") format("truetype"), url("../fonts/HelveticaNeueLTStd-Roman.svg#HelveticaNeueLTStd-Roman") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std';
+  src: url("../fonts/ITCAvantGardeStd-Bold.eot");
+  src: url("../fonts/ITCAvantGardeStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Bold.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Bold.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Bold.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Bold.svg#ITCAvantGardeStd-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std';
+  src: url("../fonts/ITCAvantGardeStd-Md.eot");
+  src: url("../fonts/ITCAvantGardeStd-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Md.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Md.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Md.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Md.svg#ITCAvantGardeStd-Md") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+/*# sourceMappingURL=fonts.css.map */

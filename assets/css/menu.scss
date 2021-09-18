@@ -1,0 +1,142 @@
+.menu {
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    border-color: transparent;
+    min-height: auto;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+    z-index: 200;
+    border-radius: 0px;
+
+    .navbar-brand {
+        height: auto;
+        padding: 8px 0 0 0;
+    }
+
+    .navbar-right {
+        background-color: #a4ced4;
+        padding: 15px 30px;
+
+        li>a {
+            color: #000;
+            text-transform: uppercase;
+            font-family: 'ITC Avant Garde Gothic Std';
+            font-weight: 500;
+            font-style: normal;
+            border-right: solid 1px #cf641c;
+        }
+
+        li:last-child a {
+            border-right: solid 0px transparent;
+        }
+    }
+}
+
+.navbar-toggle {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.menu .navbar-toggle {
+    border-color: #a4ced4;
+}
+
+.menu .navbar-toggle:focus,
+.menu .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+
+/* Extra Small */
+@media(max-width:767px) {
+    .menu {
+        .navbar-brand {
+            height: auto;
+            padding: 7px 0 7px 0;
+
+            img {
+                width: 80%;
+            }
+        }
+
+        .navbar-right {
+            padding: 0px 15px;
+        }
+
+        .navbar-nav {
+            margin: 0 -15px 7.5px;
+        }
+
+        .navbar-collapse,
+        .navbar-form {
+            border-color: transparent;
+        }
+
+        .navbar-right li>a {
+            border-right: solid 0px transparent;
+            border-bottom: solid 1px #cf641c;
+        }
+        .navbar-right li:last-child a {
+            border-bottom: solid 0px transparent;
+        }
+
+    }
+
+}
+
+/* Small */
+@media(min-width:768px) and (max-width:991px) {
+    .menu {
+        .navbar-header {
+            width: 150px;
+        }
+
+        .container .navbar-brand {
+            margin-left: 0px;
+        }
+
+        .navbar-brand {
+            height: auto;
+            padding: 14px 0 0 0;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .navbar-right {
+            padding: 10px 0px;
+
+            li>a {
+                font-size: 11px;
+                padding: 15px 9px;
+            }
+        }
+    }
+}
+
+/* Medium */
+@media(min-width:992px) and (max-width:1199px) {
+    .menu {
+        .navbar-brand {
+            height: auto;
+            padding: 7px 0 0 0;
+
+            img {
+                width: 80%;
+            }
+        }
+
+        .navbar-right {
+            padding: 10px 10px;
+
+            li>a {
+                font-size: 12px;
+            }
+        }
+    }
+}
+
+/* Large */
+@media(min-width:1200px) {}
