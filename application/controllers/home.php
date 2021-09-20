@@ -8,8 +8,8 @@ class Home extends CI_Controller{
     }
     public function index(){
         $data['title'] = 'Village Manaca';
-        $data['description'] = 'description';
-        $data['keywords'] = 'keywords';
+        $data['description'] = 'O seu melhor passeio está pertinho de São Paulo.';
+        $data['keywords'] = 'village, manaca, são paulo, fazenda boa vista';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'home_view';
         $this->load->view('html_header', $data);
@@ -22,8 +22,8 @@ class Home extends CI_Controller{
     }
     public function politicadeprivacidade() {
         $data['title'] = 'Village Manaca';
-        $data['description'] = 'description';
-        $data['keywords'] = 'keywords';
+        $data['description'] = 'O seu melhor passeio está pertinho de São Paulo.';
+        $data['keywords'] = 'village, manaca, são paulo, fazenda boa vista';
         $menu['politicadeprivacidade'] = 'active';
         $conteudo['pagina_view'] = 'politicadeprivacidade_view';
         $this->load->view('html_header', $data);

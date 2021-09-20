@@ -1,79 +1,69 @@
 footer {
     position: relative;
     width: 100%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 
     figcaption {
-        font-family: 'Futura Std';
+        font-family: 'ITC Avant Garde Gothic Std Book';
         font-weight: normal;
         font-style: normal;
+        font-size: 12px;
+        line-height: 12px;
+        margin-bottom: 10px;
         color: #000;
         text-transform: uppercase;
     }
 
-    p {
-        font-family: 'Futura Std';
-        font-weight: normal;
-        font-style: normal;
-        color: #000;
-    }
-
-    figcaption {
-        font-size: 13px;
-        line-height: 13px;
-    }
-
-    p {
-        font-size: 11px;
-        line-height: 15px;
-    }
-
-    .caixa {
-        margin-top: 40px;
-    }
-
-    .vemplan {
-        margin-top: 40px;
-    }
-
-    .riacho {
-        margin-top: 20px;
-    }
-
-    .faleiros {
-        margin-top: 30px;
-    }
-
-    .navbar-nav {
+    .texto-legal {
         margin-top: 20px;
 
-        li {
-            padding-top: 7px;
-            padding-bottom: 7px;
-        }
-
-        li>a {
-            padding-top: 0px;
-            padding-bottom: 0px;
-            font-family: 'Futura Std';
-            font-weight: 300;
+        p {
+            font-family: 'ITC Avant Garde Gothic Std Book';
+            font-weight: normal;
             font-style: normal;
-            color: #000;
-            text-transform: uppercase;
-            font-size: 11px;
-            line-height: 11px;
-            border-right: 1px solid #000;
+            font-size: 10px;
+            line-height: 15px;
+            color: #000000;
+
+            a {
+                color: #000000;
+            }
         }
 
-        li>a:focus,
-        li>a:hover {
-            text-decoration: underline;
-            background-color: transparent;
-        }
+        .navbar-nav {
+            float: none;
+            margin: 0 auto;
+            display: table;
+            table-layout: fixed;
 
-        li:last-child a {
-            border-right: 0px solid transparent;
+            li {
+                padding-top: 7px;
+                padding-bottom: 7px;
+            }
+
+            li>a {
+                padding-top: 0px;
+                padding-bottom: 0px;
+                font-family: 'ITC Avant Garde Gothic Std Book';
+                font-weight: normal;
+                font-style: normal;
+                color: #000;
+                text-transform: uppercase;
+                font-size: 10px;
+                line-height: 10px;
+                border-right: 1px solid #000;
+            }
+
+            li>a:focus,
+            li>a:hover {
+                text-decoration: underline;
+                background-color: transparent;
+            }
+
+            li:last-child a {
+                border-right: 0px solid transparent;
+            }
         }
     }
 }
@@ -82,32 +72,29 @@ footer {
 /* Extra Small */
 @media(max-width:767px) {
     footer {
+        position: relative;
+        width: 100%;
         padding-top: 30px;
-        padding-bottom: 15px;
+        padding-bottom: 30px;
 
-        p {
-            font-size: 11px;
-            line-height: 15px;
+        figure {
+            .coelho-da-fonseca {
+                max-width: 40%;
+            }
+            .nr {
+                max-width: 25%;
+            }
         }
 
-        .caixa {
-            margin-top: 20px;
-        }
+        .texto-legal {
+            .navbar-nav {
+                width: 100%;
 
-        .vemplan {
-            margin-top: 20px;
-        }
-
-        .riacho {
-            margin-top: 20px;
-        }
-
-        .faleiros {
-            margin-top: 20px;
-        }
-
-        .space {
-            margin-bottom: 30px;
+                li>a {
+                    padding: 0;
+                    border-right: 0px solid transparent;
+                }
+            }
         }
     }
 }

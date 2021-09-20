@@ -1,16 +1,32 @@
 $(document).on('ready', function () {
-	$(".galeria-home").slick({
-		dots: false,
-		infinite: true,
-		speed: 300,
-		slidesToShow: 1,
-	});
+    $(".glr-home").slick({
+        dots: false,
+		arrows: false,
+        infinite: true,
+        speed: 500,
+		fade: true,
+		cssEase: 'linear',
+        autoplay: true,
+        autoplaySpeed: 5000,
+    });
+
+    $(".glr-terrenos").slick({
+        dots: false,
+        infinite: true,
+        speed: 500,
+    });
+
+    $(".glr-lazer").slick({
+        dots: false,
+        infinite: true,
+        speed: 500,
+    });
 });
 
 $(document).ready(function () {
 	$("#close").click(function () {
 		$("#aviso").hide();
-		window.location.href = "https://www.tonsdobras.com.br/"
+		window.location.href = "https://www.villagemanaca.com.br/"
 	});
 });
 
@@ -39,7 +55,7 @@ $(document).ready(function () {
         $(this).addClass('active');
         var target = this.hash,
             $target = $(target);
-        $('html, body').stop().animate({ scrollTop: $target.offset().top - 100 }, 500, 'swing', function () {
+        $('html, body').stop().animate({ scrollTop: $target.offset().top - 60 }, 500, 'swing', function () {
             // window.location.hash = target;
             $(document).on("scroll", onScroll);
         });

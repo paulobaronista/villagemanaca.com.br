@@ -1,107 +1,93 @@
 footer {
   position: relative;
   width: 100%;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 footer figcaption {
-  font-family: 'Futura Std';
+  font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
+  font-size: 12px;
+  line-height: 12px;
+  margin-bottom: 10px;
   color: #000;
   text-transform: uppercase;
 }
 
-footer p {
-  font-family: 'Futura Std';
+footer .texto-legal {
+  margin-top: 20px;
+}
+
+footer .texto-legal p {
+  font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
-  color: #000;
-}
-
-footer figcaption {
-  font-size: 13px;
-  line-height: 13px;
-}
-
-footer p {
-  font-size: 11px;
+  font-size: 10px;
   line-height: 15px;
+  color: #000000;
 }
 
-footer .caixa {
-  margin-top: 40px;
+footer .texto-legal p a {
+  color: #000000;
 }
 
-footer .vemplan {
-  margin-top: 40px;
+footer .texto-legal .navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: table;
+  table-layout: fixed;
 }
 
-footer .riacho {
-  margin-top: 20px;
-}
-
-footer .faleiros {
-  margin-top: 30px;
-}
-
-footer .navbar-nav {
-  margin-top: 20px;
-}
-
-footer .navbar-nav li {
+footer .texto-legal .navbar-nav li {
   padding-top: 7px;
   padding-bottom: 7px;
 }
 
-footer .navbar-nav li > a {
+footer .texto-legal .navbar-nav li > a {
   padding-top: 0px;
   padding-bottom: 0px;
-  font-family: 'Futura Std';
-  font-weight: 300;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   color: #000;
   text-transform: uppercase;
-  font-size: 11px;
-  line-height: 11px;
+  font-size: 10px;
+  line-height: 10px;
   border-right: 1px solid #000;
 }
 
-footer .navbar-nav li > a:focus,
-footer .navbar-nav li > a:hover {
+footer .texto-legal .navbar-nav li > a:focus,
+footer .texto-legal .navbar-nav li > a:hover {
   text-decoration: underline;
   background-color: transparent;
 }
 
-footer .navbar-nav li:last-child a {
+footer .texto-legal .navbar-nav li:last-child a {
   border-right: 0px solid transparent;
 }
 
 /* Extra Small */
 @media (max-width: 767px) {
   footer {
+    position: relative;
+    width: 100%;
     padding-top: 30px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
   }
-  footer p {
-    font-size: 11px;
-    line-height: 15px;
+  footer figure .coelho-da-fonseca {
+    max-width: 40%;
   }
-  footer .caixa {
-    margin-top: 20px;
+  footer figure .nr {
+    max-width: 25%;
   }
-  footer .vemplan {
-    margin-top: 20px;
+  footer .texto-legal .navbar-nav {
+    width: 100%;
   }
-  footer .riacho {
-    margin-top: 20px;
-  }
-  footer .faleiros {
-    margin-top: 20px;
-  }
-  footer .space {
-    margin-bottom: 30px;
+  footer .texto-legal .navbar-nav li > a {
+    padding: 0;
+    border-right: 0px solid transparent;
   }
 }
 

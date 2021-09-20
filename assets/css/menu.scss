@@ -1,7 +1,7 @@
 .menu {
     width: 100%;
     position: fixed;
-    background-color: #fff;
+    background-color: #ffffff;
     border-color: transparent;
     min-height: auto;
     margin-bottom: 0px;
@@ -14,32 +14,39 @@
         padding: 8px 0 0 0;
     }
 
-    .navbar-right {
-        background-color: #a4ced4;
-        padding: 15px 30px;
+    .navbar-nav {
+        float: none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
 
         li>a {
-            color: #000;
+            font-size: 12px;
+            line-height: 12px;
+            letter-spacing: 1px;
+            color: #000000;
             text-transform: uppercase;
-            font-family: 'ITC Avant Garde Gothic Std';
-            font-weight: 500;
+            font-family: 'ITC Avant Garde Gothic Std Book';
+            font-weight: normal;
             font-style: normal;
-            border-right: solid 1px #cf641c;
+            padding: 23px 7px 20px;
         }
 
-        li:last-child a {
-            border-right: solid 0px transparent;
+        li > a:focus, 
+        li > a:hover {
+            color: #474f73;
         }
     }
+
 }
 
 .navbar-toggle {
-    margin-top: 15px;
+    margin-top: 10px;
     margin-right: 15px;
 }
 
 .menu .navbar-toggle {
-    border-color: #a4ced4;
+    border-color: #474f73;
 }
 
 .menu .navbar-toggle:focus,
@@ -51,34 +58,22 @@
 /* Extra Small */
 @media(max-width:767px) {
     .menu {
-        .navbar-brand {
-            height: auto;
-            padding: 7px 0 7px 0;
-
-            img {
-                width: 80%;
-            }
-        }
-
-        .navbar-right {
-            padding: 0px 15px;
-        }
-
         .navbar-nav {
-            margin: 0 -15px 7.5px;
+            margin: 10px -15px 7.5px;
+            li>a {
+                padding: 15px 20px;
+                color: #fff;
+            }
+            li > a:focus, 
+            li > a:hover {
+                color: #ffffff;
+            }
         }
 
         .navbar-collapse,
         .navbar-form {
             border-color: transparent;
-        }
-
-        .navbar-right li>a {
-            border-right: solid 0px transparent;
-            border-bottom: solid 1px #cf641c;
-        }
-        .navbar-right li:last-child a {
-            border-bottom: solid 0px transparent;
+            background-color: #474f73;
         }
 
     }
@@ -87,55 +82,10 @@
 
 /* Small */
 @media(min-width:768px) and (max-width:991px) {
-    .menu {
-        .navbar-header {
-            width: 150px;
-        }
-
-        .container .navbar-brand {
-            margin-left: 0px;
-        }
-
-        .navbar-brand {
-            height: auto;
-            padding: 14px 0 0 0;
-
-            img {
-                width: 100%;
-            }
-        }
-
-        .navbar-right {
-            padding: 10px 0px;
-
-            li>a {
-                font-size: 11px;
-                padding: 15px 9px;
-            }
-        }
-    }
 }
 
 /* Medium */
 @media(min-width:992px) and (max-width:1199px) {
-    .menu {
-        .navbar-brand {
-            height: auto;
-            padding: 7px 0 0 0;
-
-            img {
-                width: 80%;
-            }
-        }
-
-        .navbar-right {
-            padding: 10px 10px;
-
-            li>a {
-                font-size: 12px;
-            }
-        }
-    }
 }
 
 /* Large */

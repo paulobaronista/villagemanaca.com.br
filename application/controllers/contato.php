@@ -8,8 +8,8 @@ class Contato extends CI_Controller{
     }
     public function index(){
         $data['title'] = 'Village Manaca';
-        $data['description'] = 'description';
-        $data['keywords'] = 'keywords';
+        $data['description'] = 'O seu melhor passeio está pertinho de São Paulo.';
+        $data['keywords'] = 'village, manaca, são paulo, fazenda boa vista';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_view';
 
@@ -55,8 +55,8 @@ class Contato extends CI_Controller{
 
     public function obrigado(){
         $data['title'] = 'Village Manaca';
-        $data['description'] = 'description';
-        $data['keywords'] = 'keywords';
+        $data['description'] = 'O seu melhor passeio está pertinho de São Paulo.';
+        $data['keywords'] = 'village, manaca, são paulo, fazenda boa vista';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_sucesso';
         $this->load->view('html_header', $data);
@@ -69,8 +69,8 @@ class Contato extends CI_Controller{
 
     public function fail(){
         $data['title'] = 'Village Manaca';
-        $data['description'] = 'description';
-        $data['keywords'] = 'keywords';
+        $data['description'] = 'O seu melhor passeio está pertinho de São Paulo.';
+        $data['keywords'] = 'village, manaca, são paulo, fazenda boa vista';
         $menu['contato'] = 'active';
         $conteudo['pagina_view'] = 'contato_insucesso';
         $this->load->view('html_header', $data);

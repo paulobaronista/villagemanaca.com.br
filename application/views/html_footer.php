@@ -8,6 +8,7 @@ echo script_tag('assets/js/bootstrap.min.js');
 
 <div class="float-box">
     <a href="#" class="chat" target="_blank">Chat on-line</a>
+    <a href="#" class="phone">(11) 95555 8299</a>
     <a href="#" target="_blank" class="whats">Whatsapp</a>
 </div>
 

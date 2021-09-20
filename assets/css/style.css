@@ -1,80 +1,8 @@
 @font-face {
-  font-family: 'Futura Std';
-  src: url("../fonts/FuturaStd-Book.eot");
-  src: url("../fonts/FuturaStd-Book.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaStd-Book.woff2") format("woff2"), url("../fonts/FuturaStd-Book.woff") format("woff"), url("../fonts/FuturaStd-Book.ttf") format("truetype"), url("../fonts/FuturaStd-Book.svg#FuturaStd-Book") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Gill Sans MT';
-  src: url("../fonts/GillSansMT.eot");
-  src: url("../fonts/GillSansMT.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansMT.woff2") format("woff2"), url("../fonts/GillSansMT.woff") format("woff"), url("../fonts/GillSansMT.ttf") format("truetype"), url("../fonts/GillSansMT.svg#GillSansMT") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Futura Std';
-  src: url("../fonts/FuturaStd-Bold.eot");
-  src: url("../fonts/FuturaStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaStd-Bold.woff2") format("woff2"), url("../fonts/FuturaStd-Bold.woff") format("woff"), url("../fonts/FuturaStd-Bold.ttf") format("truetype"), url("../fonts/FuturaStd-Bold.svg#FuturaStd-Bold") format("svg");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Gill Sans Std';
-  src: url("../fonts/GillSansStd-Bold.eot");
-  src: url("../fonts/GillSansStd-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansStd-Bold.woff2") format("woff2"), url("../fonts/GillSansStd-Bold.woff") format("woff"), url("../fonts/GillSansStd-Bold.ttf") format("truetype"), url("../fonts/GillSansStd-Bold.svg#GillSansStd-Bold") format("svg");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Gill Sans Std';
-  src: url("../fonts/GillSansStd.eot");
-  src: url("../fonts/GillSansStd.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansStd.woff2") format("woff2"), url("../fonts/GillSansStd.woff") format("woff"), url("../fonts/GillSansStd.ttf") format("truetype"), url("../fonts/GillSansStd.svg#GillSansStd") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Gill Sans MT';
-  src: url("../fonts/GillSansMT-Bold.eot");
-  src: url("../fonts/GillSansMT-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GillSansMT-Bold.woff2") format("woff2"), url("../fonts/GillSansMT-Bold.woff") format("woff"), url("../fonts/GillSansMT-Bold.ttf") format("truetype"), url("../fonts/GillSansMT-Bold.svg#GillSansMT-Bold") format("svg");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Helvetica Neue LT Std';
-  src: url("../fonts/HelveticaNeueLTStd-Md.eot");
-  src: url("../fonts/HelveticaNeueLTStd-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueLTStd-Md.woff2") format("woff2"), url("../fonts/HelveticaNeueLTStd-Md.woff") format("woff"), url("../fonts/HelveticaNeueLTStd-Md.ttf") format("truetype"), url("../fonts/HelveticaNeueLTStd-Md.svg#HelveticaNeueLTStd-Md") format("svg");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'ITC Avant Garde Gothic Std Book';
-  src: url("../fonts/ITCAvantGardeStd-Bk.eot");
-  src: url("../fonts/ITCAvantGardeStd-Bk.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Bk.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Bk.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Bk.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Bk.svg#ITCAvantGardeStd-Bk") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Helvetica Neue LT Std';
-  src: url("../fonts/HelveticaNeueLTStd-Roman.eot");
-  src: url("../fonts/HelveticaNeueLTStd-Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueLTStd-Roman.woff2") format("woff2"), url("../fonts/HelveticaNeueLTStd-Roman.woff") format("woff"), url("../fonts/HelveticaNeueLTStd-Roman.ttf") format("truetype"), url("../fonts/HelveticaNeueLTStd-Roman.svg#HelveticaNeueLTStd-Roman") format("svg");
-  font-weight: normal;
+  font-family: 'ITC Avant Garde Gothic Std Extra';
+  src: url("../fonts/ITCAvantGardeStd-XLt.eot");
+  src: url("../fonts/ITCAvantGardeStd-XLt.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-XLt.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-XLt.woff") format("woff"), url("../fonts/ITCAvantGardeStd-XLt.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-XLt.svg#ITCAvantGardeStd-XLt") format("svg");
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
@@ -89,10 +17,55 @@
 }
 
 @font-face {
+  font-family: 'Allura';
+  src: url("../fonts/Allura-Regular.eot");
+  src: url("../fonts/Allura-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Allura-Regular.woff2") format("woff2"), url("../fonts/Allura-Regular.woff") format("woff"), url("../fonts/Allura-Regular.ttf") format("truetype"), url("../fonts/Allura-Regular.svg#Allura-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'ITC Avant Garde Gothic Std';
   src: url("../fonts/ITCAvantGardeStd-Md.eot");
   src: url("../fonts/ITCAvantGardeStd-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Md.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Md.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Md.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Md.svg#ITCAvantGardeStd-Md") format("svg");
   font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  src: url("../fonts/ITCAvantGardeStd-Demi.eot");
+  src: url("../fonts/ITCAvantGardeStd-Demi.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Demi.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Demi.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Demi.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Demi.svg#ITCAvantGardeStd-Demi") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  src: url("../fonts/ITCAvantGardeStd-Bk.eot");
+  src: url("../fonts/ITCAvantGardeStd-Bk.eot?#iefix") format("embedded-opentype"), url("../fonts/ITCAvantGardeStd-Bk.woff2") format("woff2"), url("../fonts/ITCAvantGardeStd-Bk.woff") format("woff"), url("../fonts/ITCAvantGardeStd-Bk.ttf") format("truetype"), url("../fonts/ITCAvantGardeStd-Bk.svg#ITCAvantGardeStd-Bk") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-ExtraLight.eot");
+  src: url("../fonts/Montserrat-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat-ExtraLight.woff2") format("woff2"), url("../fonts/Montserrat-ExtraLight.woff") format("woff"), url("../fonts/Montserrat-ExtraLight.ttf") format("truetype"), url("../fonts/Montserrat-ExtraLight.svg#Montserrat-ExtraLight") format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Minion Pro';
+  src: url("../fonts/MinionPro-Regular.eot");
+  src: url("../fonts/MinionPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/MinionPro-Regular.woff2") format("woff2"), url("../fonts/MinionPro-Regular.woff") format("woff"), url("../fonts/MinionPro-Regular.ttf") format("truetype"), url("../fonts/MinionPro-Regular.svg#MinionPro-Regular") format("svg");
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -293,27 +266,23 @@ p {
 
 .float-box .chat {
   background: url(../images/icone-chat.png) no-repeat right 10px center;
-  background-color: rgba(0, 0, 0, 0);
-  background-color: #cd1418;
+  background-color: #474f73;
 }
 
 .float-box .phone {
   background: url(../images/icone-tel.png) no-repeat right 10px center;
-  background-color: rgba(0, 0, 0, 0);
-  background-color: #cd1418;
+  background-color: #474f73;
   font-size: 18px;
 }
 
 .float-box .mail {
   background: url(../images/icone-mail.png) no-repeat right 10px center;
-  background-color: rgba(0, 0, 0, 0);
-  background-color: #cd1418;
+  background-color: #474f73;
 }
 
 .float-box .whats {
   background: url(../images/icone-zap.png) no-repeat right 10px center;
-  background-color: rgba(0, 0, 0, 0);
-  background-color: #cd1418;
+  background-color: #474f73;
 }
 
 .aviso {
@@ -332,7 +301,7 @@ p {
   display: table;
   margin: 10% auto 0;
   width: 40%;
-  background-color: #eb640a;
+  background-color: #474f73;
   padding: 20px 10px;
   position: relative;
 }
@@ -350,8 +319,8 @@ p {
 }
 
 .aviso div p {
-  font-family: 'Gill Sans Std';
-  font-weight: bold;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   font-size: 18px;
   line-height: 1.667;
@@ -399,7 +368,7 @@ p {
 }
 
 .cookies .box {
-  background-color: #eb640a;
+  background-color: #474f73;
   padding-top: 20px;
   padding-bottom: 20px;
   position: absolute;
@@ -407,8 +376,8 @@ p {
 }
 
 .cookies .box p {
-  font-family: 'Gill Sans Std';
-  font-weight: 300;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   color: #fff;
   font-size: 12px;
@@ -421,12 +390,12 @@ p {
 }
 
 .cookies .box .btn_cookie {
-  font-family: 'Gill Sans Std';
-  font-weight: bold;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   font-size: 16px;
   line-height: 16px;
-  color: #fff;
+  color: #474f73;
   border: 0px solid transparent;
   border-radius: 50px;
   padding: 12px 30px;
@@ -434,7 +403,7 @@ p {
   margin-top: 7px;
   -webkit-box-shadow: none;
           box-shadow: none;
-  background: #af1b1e;
+  background: #ffffff;
 }
 
 .modalFicha {
@@ -542,7 +511,7 @@ p {
 .menu {
   width: 100%;
   position: fixed;
-  background-color: #fff;
+  background-color: #ffffff;
   border-color: transparent;
   min-height: auto;
   margin-bottom: 0px;
@@ -556,31 +525,37 @@ p {
   padding: 8px 0 0 0;
 }
 
-.menu .navbar-right {
-  background-color: #a4ced4;
-  padding: 15px 30px;
+.menu .navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: table;
+  table-layout: fixed;
 }
 
-.menu .navbar-right li > a {
-  color: #000;
+.menu .navbar-nav li > a {
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 1px;
+  color: #000000;
   text-transform: uppercase;
-  font-family: 'ITC Avant Garde Gothic Std';
-  font-weight: 500;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
-  border-right: solid 1px #cf641c;
+  padding: 23px 7px 20px;
 }
 
-.menu .navbar-right li:last-child a {
-  border-right: solid 0px transparent;
+.menu .navbar-nav li > a:focus,
+.menu .navbar-nav li > a:hover {
+  color: #474f73;
 }
 
 .navbar-toggle {
-  margin-top: 15px;
+  margin-top: 10px;
   margin-right: 15px;
 }
 
 .menu .navbar-toggle {
-  border-color: #a4ced4;
+  border-color: #474f73;
 }
 
 .menu .navbar-toggle:focus,
@@ -590,107 +565,456 @@ p {
 
 /* Extra Small */
 @media (max-width: 767px) {
-  .menu .navbar-brand {
-    height: auto;
-    padding: 7px 0 7px 0;
-  }
-  .menu .navbar-brand img {
-    width: 80%;
-  }
-  .menu .navbar-right {
-    padding: 0px 15px;
-  }
   .menu .navbar-nav {
-    margin: 0 -15px 7.5px;
+    margin: 10px -15px 7.5px;
+  }
+  .menu .navbar-nav li > a {
+    padding: 15px 20px;
+    color: #fff;
+  }
+  .menu .navbar-nav li > a:focus,
+  .menu .navbar-nav li > a:hover {
+    color: #ffffff;
   }
   .menu .navbar-collapse,
   .menu .navbar-form {
     border-color: transparent;
-  }
-  .menu .navbar-right li > a {
-    border-right: solid 0px transparent;
-    border-bottom: solid 1px #cf641c;
-  }
-  .menu .navbar-right li:last-child a {
-    border-bottom: solid 0px transparent;
+    background-color: #474f73;
   }
 }
 
 /* Small */
-@media (min-width: 768px) and (max-width: 991px) {
-  .menu .navbar-header {
-    width: 150px;
-  }
-  .menu .container .navbar-brand {
-    margin-left: 0px;
-  }
-  .menu .navbar-brand {
-    height: auto;
-    padding: 14px 0 0 0;
-  }
-  .menu .navbar-brand img {
-    width: 100%;
-  }
-  .menu .navbar-right {
-    padding: 10px 0px;
-  }
-  .menu .navbar-right li > a {
-    font-size: 11px;
-    padding: 15px 9px;
-  }
-}
-
 /* Medium */
-@media (min-width: 992px) and (max-width: 1199px) {
-  .menu .navbar-brand {
-    height: auto;
-    padding: 7px 0 0 0;
+/* Large */
+.logo {
+  background-color: #474f73;
+  padding-top: 65px;
+  padding-bottom: 10px;
+}
+
+.chamada {
+  background: url(../images/dt_01.png) bottom left no-repeat #ffffff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.chamada .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 45px;
+  color: #474f73;
+}
+
+.chamada hr {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.chamada .txt {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.terrenos {
+  background-image: url(../images/dt_02.png), url(../images/dt_03.png);
+  background-position: right 5%, left 90%;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #474f73;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.terrenos .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 45px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.terrenos .txt_01 {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 35px;
+  color: #ffffff;
+}
+
+.terrenos .txt_02 {
+  font-size: 30px;
+  line-height: 40px;
+  color: #ffffff;
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.terrenos .txt_03 {
+  font-size: 17px;
+  line-height: 17px;
+  color: #ffffff;
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.terrenos .hr1 {
+  width: 38%;
+}
+
+.terrenos .galeria {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.terrenos .txt_04 {
+  font-size: 17px;
+  line-height: 17px;
+  color: #ffffff;
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.terrenos .txt_05 {
+  font-size: 12px;
+  line-height: 22px;
+  color: #ffffff;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.lazer {
+  background-image: url(../images/dt_04.png), url(../images/dt_05.png);
+  background-position: left 90%, right center;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.lazer .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 45px;
+  color: #474f73;
+  margin-bottom: 20px;
+}
+
+.lazer .txt_01 {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #474f73;
+  display: inline;
+  padding: 8px 18px;
+}
+
+.lazer .list {
+  margin-top: 30px;
+}
+
+.lazer .list p {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.lazer .list p span {
+  color: #474f73;
+}
+
+.lazer .galeria {
+  margin-top: 10px;
+  margin-bottom: 35px;
+}
+
+.faixa-natureza {
+  background-image: url(../images/dt_07.png), url(../images/dt_06.png);
+  background-position: left center, 95% bottom;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #474f73;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.faixa-natureza .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.natureza {
+  background-image: url(../images/dt_08.png), url(../images/dt_09.png);
+  background-position: left center, right 90%;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #ffffff;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.faixa-projeto {
+  background-image: url(../images/dt_10.png);
+  background-position: left center;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #474f73;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.faixa-projeto .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.projeto {
+  background-image: url(../images/dt_11.png), url(../images/dt_12.png);
+  background-position: left center, right 90%;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #ffffff;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.mapa {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 0;
+  background-color: #474f73;
+}
+
+.localizacao {
+  background-image: url(../images/dt_15.png);
+  background-position: 90% bottom;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #ffffff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.localizacao p {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+  margin-bottom: 40px;
+}
+
+/* Extra Small */
+@media (max-width: 767px) {
+  .logo {
+    background-color: #474f73;
+    padding-top: 60px;
+    padding-bottom: 0px;
   }
-  .menu .navbar-brand img {
-    width: 80%;
+  .chamada {
+    background: url(../images/dt_01.png) bottom left no-repeat #ffffff;
+    background-size: 30%;
+    padding-top: 20px;
+    padding-bottom: 40px;
   }
-  .menu .navbar-right {
-    padding: 10px 10px;
+  .chamada .tt {
+    font-size: 35px;
+    line-height: 35px;
   }
-  .menu .navbar-right li > a {
-    font-size: 12px;
+  .chamada hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .chamada .txt {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .terrenos {
+    background-size: 28%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .terrenos .tt {
+    font-size: 35px;
+    line-height: 38px;
+    margin-bottom: 0px;
+  }
+  .terrenos .hr1 {
+    width: 88%;
+  }
+  .terrenos .txt_01 {
+    font-size: 20px;
+    line-height: 33px;
+  }
+  .lazer {
+    background-image: url(../images/dt_04.png), url(../images/dt_05.png);
+    background-size: 20%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .lazer .tt {
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 0px;
+  }
+  .lazer .txt_01 {
+    font-size: 13px;
+    line-height: 20px;
+    display: block;
+    padding: 12px 18px 8px;
+  }
+  .lazer .list {
+    margin-top: 20px;
+  }
+  .lazer .galeria {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .faixa-natureza {
+    background-image: url(../images/dt_07.png), url(../images/dt_06.png);
+    background-position: left center, right bottom;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 20%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .faixa-natureza .tt {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .natureza {
+    background-image: url(../images/dt_08.png), url(../images/dt_09.png);
+    background-position: left top, right bottom;
+    background-size: 20%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .faixa-projeto {
+    background-image: url(../images/dt_10.png);
+    background-position: left 5%;
+    background-repeat: no-repeat, no-repeat;
+    background-color: #474f73;
+    background-size: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .faixa-projeto .tt {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .projeto {
+    background-image: url(../images/dt_11.png), url(../images/dt_12.png);
+    background-position: left top, right bottom;
+    background-size: 20%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .localizacao {
+    background-image: url(../images/dt_15.png);
+    background-position: 90% bottom;
+    background-size: 20%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .localizacao p {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 40px;
   }
 }
 
-/* Large */
-/* Extra Small */
 /* Small */
 /* Medium */
 /* Large */
 .contato {
-  padding-top: 20px;
+  background-image: url(../images/dt_13.png), url(../images/dt_14.png);
+  background-position: left top, right bottom;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #474f73;
+  padding-top: 50px;
+  padding-bottom: 100px;
 }
 
-.contato h5 {
-  font-family: 'Gill Sans Std';
+.contato .tt {
+  font-family: 'Allura';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 45px;
+  color: #ffffff;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.contato .txt_01 {
+  font-family: 'ITC Avant Garde Gothic Std';
   font-weight: bold;
   font-style: normal;
-  color: #af1b1e;
-  text-transform: uppercase;
-  font-size: 32px;
-  line-height: 35px;
-  margin: 0 0 10px 0;
+  font-size: 15px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.contato .txt_01 span {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.contato .media {
+  display: block;
+  margin: 0 auto;
+  width: 290px;
+}
+
+.contato .hr1 {
+  width: 45%;
+  margin-top: 40px;
 }
 
 .contato .form-control {
   display: block;
   width: 100%;
-  height: 60px;
-  padding: 6px 12px;
-  font-size: 14px;
-  line-height: 14px;
+  height: 50px;
+  padding: 2px 12px 6px;
+  font-size: 11px;
+  line-height: 11px;
   color: #000;
-  border: 1px solid #000;
-  border-radius: 0px;
+  border: 0px solid transparent;
+  border-radius: 20px;
   -webkit-box-shadow: none;
           box-shadow: none;
-  font-family: 'Gill Sans Std';
-  font-weight: bold;
+  font-family: 'Montserrat';
+  font-weight: 200;
   font-style: normal;
   text-transform: uppercase;
 }
@@ -711,52 +1035,40 @@ p {
   color: #000;
 }
 
-.contato .form-group {
-  margin-bottom: 25px;
-}
-
 .contato textarea {
-  height: 229px !important;
-}
-
-.contato .dt {
-  background-color: #eb640a;
-  height: 40px;
-}
-
-.contato .dt1 {
-  padding-right: 0px;
+  padding: 18px 12px !important;
+  height: 150px !important;
 }
 
 .contato .btn_enviar {
-  font-family: 'Gill Sans Std';
-  font-weight: bold;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
-  padding: 6px 12px;
+  padding: 15px 25px 13px;
   font-size: 17px;
   line-height: 17px;
-  width: 100%;
-  height: 40px;
   border: 0px solid transparent;
-  border-radius: 0px;
-  background-color: #000;
-  color: #fff;
+  border-radius: 10px;
+  background-color: #8996b9;
+  color: #ffffff;
   text-transform: uppercase;
+  float: right;
 }
 
 /* Extra Small */
 @media (max-width: 767px) {
-  .contato .dt1 {
-    padding: 0px;
+  .contato {
+    background-size: 30%;
+    padding-bottom: 70px;
   }
-  .contato h5 {
-    font-size: 20px;
-    line-height: 20px;
-    margin: 0 0 10px 0;
+  .contato .tt {
+    font-size: 40px;
+    line-height: 35px;
+    margin-bottom: 30px;
+    margin-top: 20px;
   }
-  .contato p {
-    font-size: 14px;
-    line-height: 14px;
+  .contato .hr1 {
+    width: 80%;
   }
 }
 
@@ -766,107 +1078,93 @@ p {
 footer {
   position: relative;
   width: 100%;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 footer figcaption {
-  font-family: 'Futura Std';
+  font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
+  font-size: 12px;
+  line-height: 12px;
+  margin-bottom: 10px;
   color: #000;
   text-transform: uppercase;
 }
 
-footer p {
-  font-family: 'Futura Std';
+footer .texto-legal {
+  margin-top: 20px;
+}
+
+footer .texto-legal p {
+  font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
-  color: #000;
-}
-
-footer figcaption {
-  font-size: 13px;
-  line-height: 13px;
-}
-
-footer p {
-  font-size: 11px;
+  font-size: 10px;
   line-height: 15px;
+  color: #000000;
 }
 
-footer .caixa {
-  margin-top: 40px;
+footer .texto-legal p a {
+  color: #000000;
 }
 
-footer .vemplan {
-  margin-top: 40px;
+footer .texto-legal .navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: table;
+  table-layout: fixed;
 }
 
-footer .riacho {
-  margin-top: 20px;
-}
-
-footer .faleiros {
-  margin-top: 30px;
-}
-
-footer .navbar-nav {
-  margin-top: 20px;
-}
-
-footer .navbar-nav li {
+footer .texto-legal .navbar-nav li {
   padding-top: 7px;
   padding-bottom: 7px;
 }
 
-footer .navbar-nav li > a {
+footer .texto-legal .navbar-nav li > a {
   padding-top: 0px;
   padding-bottom: 0px;
-  font-family: 'Futura Std';
-  font-weight: 300;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   color: #000;
   text-transform: uppercase;
-  font-size: 11px;
-  line-height: 11px;
+  font-size: 10px;
+  line-height: 10px;
   border-right: 1px solid #000;
 }
 
-footer .navbar-nav li > a:focus,
-footer .navbar-nav li > a:hover {
+footer .texto-legal .navbar-nav li > a:focus,
+footer .texto-legal .navbar-nav li > a:hover {
   text-decoration: underline;
   background-color: transparent;
 }
 
-footer .navbar-nav li:last-child a {
+footer .texto-legal .navbar-nav li:last-child a {
   border-right: 0px solid transparent;
 }
 
 /* Extra Small */
 @media (max-width: 767px) {
   footer {
+    position: relative;
+    width: 100%;
     padding-top: 30px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
   }
-  footer p {
-    font-size: 11px;
-    line-height: 15px;
+  footer figure .coelho-da-fonseca {
+    max-width: 40%;
   }
-  footer .caixa {
-    margin-top: 20px;
+  footer figure .nr {
+    max-width: 25%;
   }
-  footer .vemplan {
-    margin-top: 20px;
+  footer .texto-legal .navbar-nav {
+    width: 100%;
   }
-  footer .riacho {
-    margin-top: 20px;
-  }
-  footer .faleiros {
-    margin-top: 20px;
-  }
-  footer .space {
-    margin-bottom: 30px;
+  footer .texto-legal .navbar-nav li > a {
+    padding: 0;
+    border-right: 0px solid transparent;
   }
 }
 
@@ -875,7 +1173,7 @@ footer .navbar-nav li:last-child a {
 /* Large */
 .politica {
   padding-bottom: 30px;
-  padding-top: 100px;
+  padding-top: 60px;
 }
 
 .politica .politica-tt {
@@ -884,10 +1182,10 @@ footer .navbar-nav li:last-child a {
 }
 
 .politica .politica-tt h3 {
-  font-family: 'Gill Sans Std';
+  font-family: 'ITC Avant Garde Gothic Std';
   font-weight: bold;
   font-style: normal;
-  color: #000;
+  color: #474f73;
   text-transform: uppercase;
   font-size: 35px;
   line-height: 35px;
@@ -900,8 +1198,8 @@ footer .navbar-nav li:last-child a {
 }
 
 .politica .politica-info p {
-  font-family: 'Gill Sans Std';
-  font-weight: 300;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   color: #000;
   font-size: 15px;
