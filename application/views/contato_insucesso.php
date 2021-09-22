@@ -60,7 +60,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="txt">
-                    A 90 minutos da capital e a 20 minutos da Fazenda Boa Vista, VILLAGE MANACÁ é um sofisticado residencial fechado, <br class="hidden-xs" />
+                    A <strong>90 minutos</strong> da capital e a <strong>20 minutos</strong> da Fazenda Boa Vista, VILLAGE MANACÁ é um sofisticado residencial fechado, <br class="hidden-xs" />
                     localizado em meio a uma grande área verde preservada, com árvores nativas, pássaros,<br class="hidden-xs" />
                     lago e um magnífico pôr-do-sol para fechar os seus dias. Tudo isso rodeado por inúmeras opções de lazer:<br class="hidden-xs" />
                     um horizonte repleto de atrações, que tornarão seus passeios de final de semana verdadeiramente inesquecíveis.
@@ -103,15 +103,6 @@
                         </div>
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-03.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-04.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-05.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-06.jpg" alt="Village Manac">
                         </div>
                     </section>
                 </div>
@@ -162,25 +153,19 @@
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-07.jpg" alt="Village Manac">
                         </div>
                         <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-08.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-09.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-10.jpg" alt="Village Manac">
-                        </div>
-                        <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-11.jpg" alt="Village Manac">
                         </div>
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-12.jpg" alt="Village Manac">
                         </div>
                         <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-13.jpg" alt="Village Manac">
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-14.jpg" alt="Village Manac">
                         </div>
                         <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-14.jpg" alt="Village Manac">
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-15.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-16.jpg" alt="Village Manac">
                         </div>
                     </section>
                 </div>
@@ -263,6 +248,36 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-09.jpg" alt="Village Manac">
                         </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-10.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-11.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-12.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-13.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-14.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-15.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-16.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-17.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-18.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-19.jpg" alt="Village Manac">
+                        </div>
                     </section>
                 </div>
             </div>
@@ -287,6 +302,9 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
                         </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
+                        </div>
                     </section>
                 </div>
             </div>
@@ -304,12 +322,12 @@
                     sua vida vai ganhar outra d imensão.</p>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
-                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-01.png" alt="Village Manac">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-04.png" alt="Village Manac">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
-                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-03.png" alt="Village Manac">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-05.png" alt="Village Manac">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
             </div>
@@ -323,21 +341,22 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
-                <div class="media">
-                    <div class="media-left"><img alt="Localização" class="media-object" style="width:60px; height: 80px;" src="<?= base_url(); ?>assets/images/icone.png"></div>
-                    <div class="media-body">
-                        <p class="txt_01">
-                            RODOVIA CASTELO BRANCO<br />
-                            SAÍDA KM 143A<br />
-                            <span>
-                                (11) 95555 8299
-                            </span>
-                        </p>
+                <span class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 padding-off boxValor">
+                    <div class="col-xs-12 col-sm-12 col-md-12 padding-off terreno500">
+                        <p>TERRENOS DE 500 M²</p>
                     </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <hr class="hr1" style="height:1px;border-width:0;color:#ffffff;background-color:#ffffff;">
+                    <div class="col-xs-12 col-sm-12 col-md-12 padding-off">
+                        <span class="valor500">
+                            <span class="mil200">
+                                <p>R$ <span>200 mil</span></p>
+                            </span>
+                            <span class="finan">
+                                <p>Financiados em<br />
+                                    36X sem juros*</p>
+                            </span>
+                        </span>
+                    </div>
+                </span>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="tt">
@@ -377,7 +396,7 @@
         <button type="button" class="close" id="close"><span aria-hidden="true">&times;</span></button>
         <p>O e-mail não pode ser enviado!<br />
             <strong>Tente novamente!</strong><br />
-            Se o problema persistir, entre em contato pelo Telefone <strong>(11) 95555 8299</strong>
+            Se o problema persistir, entre em contato pelo Telefone <strong>contato@nrvillagemanaca.com.br</strong>
         </p>
     </div>
 </div>

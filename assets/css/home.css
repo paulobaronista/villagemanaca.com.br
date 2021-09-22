@@ -230,7 +230,7 @@
   background-repeat: no-repeat, no-repeat;
   background-color: #ffffff;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .localizacao p {
@@ -241,6 +241,17 @@
   line-height: 35px;
   color: #000000;
   margin-bottom: 40px;
+}
+
+.localizacao h4 {
+  font-family: 'ITC Avant Garde Gothic Std';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 25px;
+  color: #474f73;
+  letter-spacing: 2px;
+  margin-top: 40px;
 }
 
 /* Extra Small */
@@ -359,6 +370,10 @@
     font-size: 25px;
     line-height: 30px;
     margin-bottom: 40px;
+  }
+  .localizacao h4 {
+    font-size: 20px;
+    line-height: 30px;
   }
 }
 

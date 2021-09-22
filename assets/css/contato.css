@@ -46,6 +46,59 @@
   margin-top: 40px;
 }
 
+.contato .boxValor {
+  border: solid 1px #ffffff;
+  padding: 15px 0;
+}
+
+.contato .boxValor .terreno500 p {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  color: #ffffff;
+  text-align: center;
+  font-size: 40px;
+  line-height: 45px;
+  margin-bottom: 15px;
+}
+
+.contato .boxValor .valor500 {
+  display: table;
+  margin: 0 auto;
+}
+
+.contato .boxValor .valor500 .mil200,
+.contato .boxValor .valor500 .finan {
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.contato .boxValor .valor500 .mil200 {
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: right;
+  padding-right: 20px;
+  border-right: solid 1px #ffffff;
+}
+
+.contato .boxValor .valor500 .mil200 span {
+  font-size: 55px;
+  line-height: 55px;
+}
+
+.contato .boxValor .valor500 .finan {
+  font-size: 25px;
+  line-height: 35px;
+  text-align: left;
+  padding-left: 20px;
+}
+
 .contato .form-control {
   display: block;
   width: 100%;
@@ -58,8 +111,8 @@
   border-radius: 20px;
   -webkit-box-shadow: none;
           box-shadow: none;
-  font-family: 'Montserrat';
-  font-weight: 200;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   text-transform: uppercase;
 }
@@ -114,6 +167,30 @@
   }
   .contato .hr1 {
     width: 80%;
+  }
+  .contato .boxValor {
+    border: solid 1px #ffffff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  .contato .boxValor .terreno500 p {
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 10px;
+  }
+  .contato .boxValor .valor500 .mil200 {
+    font-size: 20px;
+    line-height: 20px;
+    padding-right: 10px;
+  }
+  .contato .boxValor .valor500 .mil200 span {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  .contato .boxValor .valor500 .finan {
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 10px;
   }
 }
 

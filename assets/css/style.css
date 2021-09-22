@@ -818,7 +818,7 @@ p {
   background-repeat: no-repeat, no-repeat;
   background-color: #ffffff;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .localizacao p {
@@ -829,6 +829,17 @@ p {
   line-height: 35px;
   color: #000000;
   margin-bottom: 40px;
+}
+
+.localizacao h4 {
+  font-family: 'ITC Avant Garde Gothic Std';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 25px;
+  color: #474f73;
+  letter-spacing: 2px;
+  margin-top: 40px;
 }
 
 /* Extra Small */
@@ -948,6 +959,10 @@ p {
     line-height: 30px;
     margin-bottom: 40px;
   }
+  .localizacao h4 {
+    font-size: 20px;
+    line-height: 30px;
+  }
 }
 
 /* Small */
@@ -1001,6 +1016,59 @@ p {
   margin-top: 40px;
 }
 
+.contato .boxValor {
+  border: solid 1px #ffffff;
+  padding: 15px 0;
+}
+
+.contato .boxValor .terreno500 p {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  color: #ffffff;
+  text-align: center;
+  font-size: 40px;
+  line-height: 45px;
+  margin-bottom: 15px;
+}
+
+.contato .boxValor .valor500 {
+  display: table;
+  margin: 0 auto;
+}
+
+.contato .boxValor .valor500 .mil200,
+.contato .boxValor .valor500 .finan {
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.contato .boxValor .valor500 .mil200 {
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: right;
+  padding-right: 20px;
+  border-right: solid 1px #ffffff;
+}
+
+.contato .boxValor .valor500 .mil200 span {
+  font-size: 55px;
+  line-height: 55px;
+}
+
+.contato .boxValor .valor500 .finan {
+  font-size: 25px;
+  line-height: 35px;
+  text-align: left;
+  padding-left: 20px;
+}
+
 .contato .form-control {
   display: block;
   width: 100%;
@@ -1013,8 +1081,8 @@ p {
   border-radius: 20px;
   -webkit-box-shadow: none;
           box-shadow: none;
-  font-family: 'Montserrat';
-  font-weight: 200;
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
   font-style: normal;
   text-transform: uppercase;
 }
@@ -1069,6 +1137,30 @@ p {
   }
   .contato .hr1 {
     width: 80%;
+  }
+  .contato .boxValor {
+    border: solid 1px #ffffff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  .contato .boxValor .terreno500 p {
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 10px;
+  }
+  .contato .boxValor .valor500 .mil200 {
+    font-size: 20px;
+    line-height: 20px;
+    padding-right: 10px;
+  }
+  .contato .boxValor .valor500 .mil200 span {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  .contato .boxValor .valor500 .finan {
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 10px;
   }
 }
 
@@ -1191,6 +1283,15 @@ footer .texto-legal .navbar-nav li:last-child a {
   line-height: 35px;
   margin: 0;
   padding: 0;
+}
+
+.politica .politica-tt p {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  color: #000;
+  font-size: 15px;
+  line-height: 20px;
 }
 
 .politica .politica-info {

@@ -20,6 +20,15 @@
   padding: 0;
 }
 
+.politica .politica-tt p {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  color: #000;
+  font-size: 15px;
+  line-height: 20px;
+}
+
 .politica .politica-info {
   margin-top: 30px;
 }
