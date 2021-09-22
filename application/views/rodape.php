@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 margin-top-20 text-center">
                     <p>
-                        NR CONSTRUÇÃO E INCORPORAÇÃO LTDA. Av. Brigadeiro Faria Lima, 2081 | Conj. 12 | Jd. Paulistano | Tel.: (11) 3032-8577 | Cep: 01452-908 | São Paulo SP | <a href="https://www.nrconstrutora.com.br/" target="_blank">www.nrconstrutora.com.br</a>
+                        *Valor referente a terrenos de 500 m². Demais condições no plantão de vendas. | NR CONSTRUÇÃO E INCORPORAÇÃO LTDA. Av. Brigadeiro Faria Lima, 2081 | Conj. 12 | Jd. Paulistano | Tel.: (11) 3032-8577 | Cep: 01452-908 | São Paulo SP | <a href="https://www.nrconstrutora.com.br/" target="_blank">www.nrconstrutora.com.br</a>
                     </p>
                 </div>
             </div>

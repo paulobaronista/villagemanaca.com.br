@@ -352,7 +352,7 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 padding-off">
                         <span class="valor500">
                             <span class="mil200">
-                                <p>R$ <span>200 mil</span></p>
+                                <p>R$ <span>220 mil</span></p>
                             </span>
                             <span class="finan">
                                 <p>Financiados em<br />
