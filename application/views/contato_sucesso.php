@@ -284,7 +284,7 @@
         </div>
     </div>
 </div>
-<div class="container-fluid padding-off faixa-projeto">
+<!-- <div class="container-fluid padding-off faixa-projeto">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
@@ -292,8 +292,8 @@
             </div>
         </div>
     </div>
-</div>
-<div class="container-fluid padding-off projeto">
+</div> -->
+<!-- <div class="container-fluid padding-off projeto">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
@@ -310,7 +310,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <div id="localizacao" class="container-fluid mapa">
     <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/mapa.png" alt="Village Manac">
 </div>
@@ -322,6 +322,11 @@
                     sua vida vai ganhar outra d imensão.</p>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-02.png" alt="Village Manac">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4">
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-04.png" alt="Village Manac">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
@@ -329,10 +334,9 @@
             <div class="col-xs-12 col-sm-4 col-md-4">
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-05.png" alt="Village Manac">
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
-            </div>
-            <div class="col-xs-12 col-sm-4 col-md-4">
-                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-02.png" alt="Village Manac">
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                <h4>RODOVIA CASTELO BRANCO - SAÍDA KM 143A<br />
+                    (11) 95555 8299</h4>
             </div>
         </div>
     </div>
