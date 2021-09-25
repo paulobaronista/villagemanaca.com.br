@@ -38,11 +38,7 @@
     echo link_tag('assets/css/slick-theme.css');
     ?>
 
-</head>
-
-<body>
-
-    <script>
+    <!-- <script>
         (function(ll, mo, n, i, t, o, r) {
             ll['LeadLoversMonitorObject'] = o;
             ll[o] = ll[o] || function() {
@@ -59,4 +55,8 @@
         mnt('init', '5fff5337-0cd0-4d2c-b4be-836168e9ca4f');
         mnt('scout');
         mnt('capture');
-    </script>
+    </script> -->
+
+</head>
+
+<body>
