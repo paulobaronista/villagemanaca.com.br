@@ -12,6 +12,7 @@ echo script_tag('assets/js/bootstrap.min.js');
     <a href="https://online.crm.anapro.com.br/WebCRMService/Pages/chat/cliente/ChatClienteWhatsAppEntrada.aspx?conta=vTjaeIT3TpI1&keyIntegradora=29F2D83A-29CF-4359-B1AC-40CE6FA19E70&keyAgencia=29F2D83A-29CF-4359-B1AC-40CE6FA19E70&strDir=coelhodafonseca&campanha=nOhDjNO4xhg1&canal=9B19BZMXEwI1&produto=PdfZ9LzmHVY1&strmidia=Hotsite+Empreendimento&strpeca=&usuarioEmail=&strgrupopeca=&strcampanhapeca=&nome=&email=&telefoneDDD=&telefone=&strTexto=&keyexterno=&urlep=&urlcp=&urlca=&urlat=&strMostrarTopo=true&strAutoSubmit=true&strUsarDadosAnteriores=true&emailobrigatorio=true&telefoneobrigatorio=false&texto=" target="_blank" class="whats">Whatsapp</a>
 </div>
 
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VFN50J4KW6"></script>
 <script>

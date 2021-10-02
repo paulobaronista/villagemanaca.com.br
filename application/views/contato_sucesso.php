@@ -402,3 +402,26 @@
             Já entraremos em contato para um <strong>atendimento exclusivo!</strong></p>
     </div>
 </div>
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 300128269 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-300128269"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-300128269');
+</script>
+
+
+
+<!-- Event snippet for Pagina de obrigado - lead conversion page -->
+<script>
+    gtag('event', 'conversion', {
+        'send_to': 'AW-300128269/xQC6CK_ukfgCEI2wjo8B'
+    });
+</script>
