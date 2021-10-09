@@ -2,17 +2,17 @@
   background-image: url(../images/dt_13.png), url(../images/dt_14.png);
   background-position: left top, right bottom;
   background-repeat: no-repeat, no-repeat;
-  background-color: #474f73;
+  background-color: #4a5174;
   padding-top: 50px;
   padding-bottom: 100px;
 }
 
 .contato .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 50px;
-  line-height: 45px;
+  font-size: 25px;
+  line-height: 30px;
   color: #ffffff;
   margin-bottom: 40px;
   margin-top: 40px;
@@ -160,8 +160,8 @@
     padding-bottom: 70px;
   }
   .contato .tt {
-    font-size: 40px;
-    line-height: 35px;
+    font-size: 20px;
+    line-height: 25px;
     margin-bottom: 30px;
     margin-top: 20px;
   }

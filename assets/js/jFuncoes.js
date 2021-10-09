@@ -21,6 +21,14 @@ $(document).on('ready', function () {
         infinite: true,
         speed: 500,
     });
+
+    $(".glr-projeto").slick({
+        dots: false,
+        infinite: true,
+        speed: 500,
+        fade: true,
+        cssEase: 'linear'
+    });
 });
 
 $(document).ready(function () {

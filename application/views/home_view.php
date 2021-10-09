@@ -269,22 +269,13 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-16.jpg" alt="Village Manac">
                         </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-17.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-18.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/natureza/natureza-19.jpg" alt="Village Manac">
-                        </div>
                     </section>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- <div class="container-fluid padding-off faixa-projeto">
+<div class="container-fluid padding-off faixa-projeto">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
@@ -292,25 +283,31 @@
             </div>
         </div>
     </div>
-</div> -->
-<!-- <div class="container-fluid padding-off projeto">
+</div>
+<div class="container-fluid padding-off projeto">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
                 <div class="galeria">
-                    <section class="glr-lazer slider">
+                    <section class="glr-projeto slider">
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
                         </div>
                         <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-02.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-03.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-04.jpg" alt="Village Manac">
                         </div>
                     </section>
                 </div>
             </div>
         </div>
     </div>
-</div> -->
+</div>
 <div id="localizacao" class="container-fluid mapa">
     <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/mapa.png" alt="Village Manac">
 </div>
@@ -319,7 +316,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p>Com rápido acesso e a apenas 20 minutos da Fazenda Boa Vista,<br />
-                    sua vida vai ganhar outra d imensão.</p>
+                    sua vida vai ganhar outra dimensão.</p>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-02.png" alt="Village Manac">

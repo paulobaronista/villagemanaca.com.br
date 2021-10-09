@@ -599,11 +599,11 @@ p {
 }
 
 .chamada .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 30px;
+  line-height: 35px;
   color: #474f73;
 }
 
@@ -631,11 +631,11 @@ p {
 }
 
 .terrenos .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 30px;
+  line-height: 35px;
   color: #ffffff;
   margin-bottom: 20px;
 }
@@ -707,11 +707,11 @@ p {
 }
 
 .lazer .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 30px;
+  line-height: 35px;
   color: #474f73;
   margin-bottom: 20px;
 }
@@ -761,11 +761,11 @@ p {
 }
 
 .faixa-natureza .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 25px;
+  line-height: 30px;
   color: #ffffff;
 }
 
@@ -788,11 +788,11 @@ p {
 }
 
 .faixa-projeto .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 25px;
+  line-height: 30px;
   color: #ffffff;
 }
 
@@ -806,10 +806,9 @@ p {
 }
 
 .mapa {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
   padding-right: 0;
-  background-color: #474f73;
+  background-color: #4a5174;
 }
 
 .localizacao {
@@ -822,12 +821,12 @@ p {
 }
 
 .localizacao p {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 30px;
-  line-height: 35px;
-  color: #000000;
+  font-size: 20px;
+  line-height: 25px;
+  color: #474f73;
   margin-bottom: 40px;
 }
 
@@ -856,8 +855,8 @@ p {
     padding-bottom: 40px;
   }
   .chamada .tt {
-    font-size: 35px;
-    line-height: 35px;
+    font-size: 25px;
+    line-height: 30px;
   }
   .chamada hr {
     margin-top: 20px;
@@ -873,8 +872,8 @@ p {
     padding-bottom: 20px;
   }
   .terrenos .tt {
-    font-size: 35px;
-    line-height: 38px;
+    font-size: 25px;
+    line-height: 30px;
     margin-bottom: 0px;
   }
   .terrenos .hr1 {
@@ -891,8 +890,8 @@ p {
     padding-bottom: 20px;
   }
   .lazer .tt {
-    font-size: 35px;
-    line-height: 40px;
+    font-size: 25px;
+    line-height: 30px;
     margin-bottom: 0px;
   }
   .lazer .txt_01 {
@@ -917,8 +916,8 @@ p {
     padding-bottom: 15px;
   }
   .faixa-natureza .tt {
-    font-size: 30px;
-    line-height: 35px;
+    font-size: 18px;
+    line-height: 25px;
   }
   .natureza {
     background-image: url(../images/dt_08.png), url(../images/dt_09.png);
@@ -937,8 +936,8 @@ p {
     padding-bottom: 30px;
   }
   .faixa-projeto .tt {
-    font-size: 25px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 25px;
   }
   .projeto {
     background-image: url(../images/dt_11.png), url(../images/dt_12.png);
@@ -955,8 +954,8 @@ p {
     padding-bottom: 40px;
   }
   .localizacao p {
-    font-size: 25px;
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 25px;
     margin-bottom: 40px;
   }
   .localizacao h4 {
@@ -972,17 +971,17 @@ p {
   background-image: url(../images/dt_13.png), url(../images/dt_14.png);
   background-position: left top, right bottom;
   background-repeat: no-repeat, no-repeat;
-  background-color: #474f73;
+  background-color: #4a5174;
   padding-top: 50px;
   padding-bottom: 100px;
 }
 
 .contato .tt {
-  font-family: 'Allura';
+  font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 50px;
-  line-height: 45px;
+  font-size: 25px;
+  line-height: 30px;
   color: #ffffff;
   margin-bottom: 40px;
   margin-top: 40px;
@@ -1130,8 +1129,8 @@ p {
     padding-bottom: 70px;
   }
   .contato .tt {
-    font-size: 40px;
-    line-height: 35px;
+    font-size: 20px;
+    line-height: 25px;
     margin-bottom: 30px;
     margin-top: 20px;
   }
@@ -1168,6 +1167,7 @@ p {
 /* Medium */
 /* Large */
 footer {
+  background-color: #4a5174;
   position: relative;
   width: 100%;
   padding-top: 40px;
@@ -1181,7 +1181,7 @@ footer figcaption {
   font-size: 12px;
   line-height: 12px;
   margin-bottom: 10px;
-  color: #000;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -1195,11 +1195,11 @@ footer .texto-legal p {
   font-style: normal;
   font-size: 10px;
   line-height: 15px;
-  color: #000000;
+  color: #ffffff;
 }
 
 footer .texto-legal p a {
-  color: #000000;
+  color: #ffffff;
 }
 
 footer .texto-legal .navbar-nav {
@@ -1220,11 +1220,11 @@ footer .texto-legal .navbar-nav li > a {
   font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
-  color: #000;
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 10px;
   line-height: 10px;
-  border-right: 1px solid #000;
+  border-right: 1px solid #ffffff;
 }
 
 footer .texto-legal .navbar-nav li > a:focus,

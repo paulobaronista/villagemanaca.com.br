@@ -99,6 +99,32 @@
     border: 1px solid #ddd;
 }
 
+.glr-projeto .slick-prev,
+.glr-projeto .slick-prev:hover,
+.glr-projeto .slick-prev:focus {
+    width: 20px;
+    height: 37px;
+    top: 50%;
+    left: -30px;
+    background: url(../images/left-l.png) no-repeat #ddd;
+    background-position: center center;
+    background-size: 45%;
+    border: 1px solid #ddd;
+    z-index: 5;
+}
+.glr-projeto .slick-next,
+.glr-projeto .slick-next:hover,
+.glr-projeto .slick-next:focus {
+    width: 20px;
+    height: 37px;
+    top: 50%;
+    right: -30px;
+    background: url(../images/right-l.png) no-repeat #ddd;
+    background-position: center center;
+    background-size: 45%;
+    border: 1px solid #ddd;
+}
+
 /* Dots */
 .slick-dotted.slick-slider {
     margin-bottom: 30px;
