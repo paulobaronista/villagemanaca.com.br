@@ -26,7 +26,7 @@ class Contato extends CI_Controller{
 
             $this->email->from("contato@villagemanaca.com.br","Village Manaca");
             $this->email->to('contato@villagemanaca.com.br');
-            $this->email->cc('mv_cp_94f_300_1828_3079_14166_71290_3535_3535_faleconosco_hotsiteempreendimento@email.anapro.com.br, contato@nrvillagemanaca.com.br, front.baronista@gmail.com, renata@spicycomm.com.br');
+            $this->email->cc('mv_cp_94f_300_6182_3079_14166_71290_3535_3535_faleconosco_hotsiteempreendimento@email.anapro.com.br, contato@nrvillagemanaca.com.br, front.baronista@gmail.com, renata@spicycomm.com.br');
             $this->email->subject($assunto);
             $this->email->message("<html xmlns='http://www.w3.org/1999/xhtml' dir='ltr' lang='pt-br'>
             <head> <meta http-equiv='content-type' content='text/html;charset=UTF-8' /> </head><body>

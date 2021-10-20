@@ -167,6 +167,15 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-16.jpg" alt="Village Manac">
                         </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-17.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-18.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-19.jpg" alt="Village Manac">
+                        </div>
                     </section>
                 </div>
             </div>
