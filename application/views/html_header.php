@@ -33,30 +33,10 @@
     );
     echo meta($meta);
     echo link_tag('assets/css/bootstrap.min.css');
-    echo link_tag('assets/css/style.css?v=0.0.9');
+    echo link_tag('assets/css/style.css?v=0.1.0');
     echo link_tag('assets/css/slick.css');
     echo link_tag('assets/css/slick-theme.css');
     ?>
-
-    <!-- <script>
-        (function(ll, mo, n, i, t, o, r) {
-            ll['LeadLoversMonitorObject'] = o;
-            ll[o] = ll[o] || function() {
-                (ll[o].q = ll[o].q || []).push(arguments);
-            };
-            r = mo.createElement(n);
-            r.src = i;
-            r.type = t;
-            r.async = 1;
-            r.defer = 1;
-            mo.body.appendChild(r);
-        })(window, document, 'script', 'https://lib.leadlovers.site/scripts/monitor/index.js', 'module', 'mnt');
-
-        mnt('init', '5fff5337-0cd0-4d2c-b4be-836168e9ca4f');
-        mnt('scout');
-        mnt('capture');
-    </script> -->
-
 
     <!-- Global site tag (gtag.js) - Google Ads: 300128269 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-300128269"></script>

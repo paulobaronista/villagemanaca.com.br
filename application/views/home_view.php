@@ -55,9 +55,18 @@
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="tt">O seu melhor passeio está pertinho de São Paulo.</p>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text-center">
-                <hr style="height:1px;border-width:0;color:#474f73;;background-color:#474f73;">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                <div class="boxVideo">
+                    <video width="100%" height="auto" controls>
+                        <source src="<?= base_url(); ?>assets/video/video.mp4" type="video/mp4">
+                        <source src="<?= base_url(); ?>assets/video/video.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
             </div>
+            <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text-center">
+                <hr style="height:1px;border-width:0;color:#474f73;;background-color:#474f73;">
+            </div> -->
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="txt">
                     A <strong>90 minutos</strong> da capital e a <strong>20 minutos</strong> da Fazenda Boa Vista, VILLAGE MANACÁ é um sofisticado residencial fechado, <br class="hidden-xs" />

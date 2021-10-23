@@ -621,6 +621,11 @@ p {
   color: #000000;
 }
 
+.chamada .boxVideo {
+  padding-bottom: 30px;
+  padding-top: 35px;
+}
+
 .terrenos {
   background-image: url(../images/dt_02.png), url(../images/dt_03.png);
   background-position: right 5%, left 90%;
