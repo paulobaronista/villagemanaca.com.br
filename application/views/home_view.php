@@ -367,11 +367,12 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 padding-off">
                         <span class="valor500">
                             <span class="mil200">
-                                <p>R$ <span>220 mil</span></p>
+                                <p class="text-left">A partir de</p>
+                                <p>R$ <span>205 mil</span></p>
                             </span>
                             <span class="finan">
                                 <p>Financiados em<br />
-                                    36X sem juros*</p>
+                                    36X sem juros ou <br />em 60 meses*</p>
                             </span>
                         </span>
                     </div>
