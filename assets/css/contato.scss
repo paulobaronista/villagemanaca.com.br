@@ -17,6 +17,17 @@
         margin-top: 40px;
     }
 
+    .tt1 {
+        font-family: 'ITC Avant Garde Gothic Std Demi';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 25px;
+        line-height: 30px;
+        color: #ffffff;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
     .txt_01 {
         font-family: 'ITC Avant Garde Gothic Std';
         font-weight: bold;
@@ -165,6 +176,11 @@
             margin-top: 20px;
         }
 
+        .tt1 {
+            font-size: 20px;
+            line-height: 25px;
+        }
+
         .hr1 {
             width: 80%;
         }
@@ -200,6 +216,10 @@
                     padding-left: 10px;
                 }
             }
+        }
+
+        .novo-preco {
+            max-width: 60%;
         }
     }
 }

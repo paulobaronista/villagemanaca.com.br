@@ -42,7 +42,7 @@
   background-image: url(../images/dt_02.png), url(../images/dt_03.png);
   background-position: right 5%, left 90%;
   background-repeat: no-repeat, no-repeat;
-  background-color: #474f73;
+  background-color: #ffffff;
   padding-top: 50px;
   padding-bottom: 40px;
 }
@@ -51,10 +51,11 @@
   font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 30px;
-  line-height: 35px;
-  color: #ffffff;
+  font-size: 23px;
+  line-height: 33px;
+  color: #474f73;
   margin-bottom: 20px;
+  text-transform: uppercase;
 }
 
 .terrenos .txt_01 {
@@ -63,13 +64,13 @@
   font-style: normal;
   font-size: 22px;
   line-height: 35px;
-  color: #ffffff;
+  color: #474f73;
 }
 
 .terrenos .txt_02 {
   font-size: 30px;
   line-height: 40px;
-  color: #ffffff;
+  color: #474f73;
   font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
@@ -82,6 +83,10 @@
   font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
+  background-color: #474f73;
+  display: table;
+  margin: 7px auto 0;
+  padding: 9px 16px 7px;
 }
 
 .terrenos .hr1 {
@@ -96,7 +101,7 @@
 .terrenos .txt_04 {
   font-size: 17px;
   line-height: 17px;
-  color: #ffffff;
+  color: #474f73;
   font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
@@ -106,12 +111,26 @@
 .terrenos .txt_05 {
   font-size: 12px;
   line-height: 22px;
-  color: #ffffff;
+  color: #474f73;
   font-family: 'ITC Avant Garde Gothic Std Book';
   font-weight: normal;
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.terrenos .boxVideo {
+  padding-bottom: 30px;
+  padding-top: 35px;
+}
+
+.terrenos .txt {
+  font-family: 'ITC Avant Garde Gothic Std Book';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 22px;
+  color: #000000;
 }
 
 .lazer {
@@ -196,30 +215,70 @@
 }
 
 .faixa-projeto {
-  background-image: url(../images/dt_10.png);
-  background-position: left center;
+  background-image: url(../images/dt_07.png), url(../images/dt_16.png);
+  background-position: left center, right bottom;
   background-repeat: no-repeat, no-repeat;
   background-color: #474f73;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-size: 15%;
 }
 
 .faixa-projeto .tt {
   font-family: 'ITC Avant Garde Gothic Std Demi';
   font-weight: normal;
   font-style: normal;
-  font-size: 25px;
+  font-size: 18px;
   line-height: 30px;
   color: #ffffff;
+  text-transform: uppercase;
 }
 
 .projeto {
   background-image: url(../images/dt_11.png), url(../images/dt_12.png);
-  background-position: left center, right 90%;
+  background-position: left center, right 10%;
   background-repeat: no-repeat, no-repeat;
-  background-color: #ffffff;
+  background-color: #474f73;
   padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.projeto .txt {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.projeto .txt p {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.new-terrenos {
+  background-image: url(../images/dt_17.png);
+  background-position: left center;
+  background-repeat: no-repeat, no-repeat;
+  padding-top: 20px;
   padding-bottom: 70px;
+}
+
+.new-terrenos .tt {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.new-terrenos .tt p {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #474f73;
+  text-transform: uppercase;
 }
 
 .mapa {
@@ -258,6 +317,22 @@
   margin-top: 40px;
 }
 
+.faixa-village {
+  background-color: #474f73;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.faixa-village .tt {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
 /* Extra Small */
 @media (max-width: 767px) {
   .logo {
@@ -289,7 +364,7 @@
     padding-bottom: 20px;
   }
   .terrenos .tt {
-    font-size: 25px;
+    font-size: 20px;
     line-height: 30px;
     margin-bottom: 0px;
   }
@@ -299,6 +374,14 @@
   .terrenos .txt_01 {
     font-size: 20px;
     line-height: 33px;
+  }
+  .terrenos .txt_02 {
+    font-size: 23px;
+    line-height: 35px;
+  }
+  .terrenos .boxVideo {
+    padding-bottom: 30px;
+    padding-top: 20px;
   }
   .lazer {
     background-image: url(../images/dt_04.png), url(../images/dt_05.png);
@@ -360,8 +443,16 @@
     background-image: url(../images/dt_11.png), url(../images/dt_12.png);
     background-position: left top, right bottom;
     background-size: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .projeto .txt {
     padding-top: 40px;
     padding-bottom: 40px;
+  }
+  .projeto .txt p {
+    font-size: 16px;
+    line-height: 30px;
   }
   .localizacao {
     background-image: url(../images/dt_15.png);
@@ -378,6 +469,10 @@
   .localizacao h4 {
     font-size: 20px;
     line-height: 30px;
+  }
+  .faixa-village .tt {
+    font-size: 18px;
+    line-height: 25px;
   }
 }
 

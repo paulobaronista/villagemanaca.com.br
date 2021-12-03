@@ -179,7 +179,8 @@ p {
     text-decoration: none;
 }
 
-.float-box a:hover {
+.float-box a:hover,
+.float-box .phone {
     width: 220px;
     color: rgba(255, 255, 255, 1);
 }

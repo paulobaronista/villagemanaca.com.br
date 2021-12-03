@@ -18,6 +18,17 @@
   margin-top: 40px;
 }
 
+.contato .tt1 {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 .contato .txt_01 {
   font-family: 'ITC Avant Garde Gothic Std';
   font-weight: bold;
@@ -165,6 +176,10 @@
     margin-bottom: 30px;
     margin-top: 20px;
   }
+  .contato .tt1 {
+    font-size: 20px;
+    line-height: 25px;
+  }
   .contato .hr1 {
     width: 80%;
   }
@@ -191,6 +206,9 @@
     font-size: 20px;
     line-height: 30px;
     padding-left: 10px;
+  }
+  .contato .novo-preco {
+    max-width: 60%;
   }
 }
 

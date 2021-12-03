@@ -16,6 +16,7 @@
                 <li><a class="scrollink" href="#lazer">Lazer</a></li>
                 <li><a class="scrollink" href="#natureza">Natureza</a></li>
                 <li><a class="scrollink" href="#localizacao">Localização</a></li>
+                <li><a class="scrollink" href="#preco">Preço</a></li>
                 <li><a class="scrollink" href="#contato">Contato</a></li>
             </ul>
         </div>
@@ -35,57 +36,31 @@
     <div class="galeria">
         <section class="glr-home slider">
             <div>
-                <img class="img-responsive center-block hidden-xs" src="<?= base_url(); ?>assets/images/galeria-home-01.jpg" alt="Village Manac">
-                <img class="img-responsive center-block visible-xs" src="<?= base_url(); ?>assets/images/galeria-home-01-mobile.jpg" alt="Village Manac">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/galeria-home-01.jpg" alt="Village Manac">
             </div>
             <div>
-                <img class="img-responsive center-block hidden-xs" src="<?= base_url(); ?>assets/images/galeria-home-02.jpg" alt="Village Manac">
-                <img class="img-responsive center-block visible-xs" src="<?= base_url(); ?>assets/images/galeria-home-02-mobile.jpg" alt="Village Manac">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/galeria-home-02.jpg" alt="Village Manac">
             </div>
             <div>
-                <img class="img-responsive center-block hidden-xs" src="<?= base_url(); ?>assets/images/galeria-home-03.jpg" alt="Village Manac">
-                <img class="img-responsive center-block visible-xs" src="<?= base_url(); ?>assets/images/galeria-home-03-mobile.jpg" alt="Village Manac">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/galeria-home-03.jpg" alt="Village Manac">
+            </div>
+            <div>
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/galeria-home-04.jpg" alt="Village Manac">
+            </div>
+            <div>
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/galeria-home-05.jpg" alt="Village Manac">
             </div>
         </section>
     </div>
 </div>
-<div id="conceito" class="container-fluid padding-off chamada">
+<div  id="conceito" class="container-fluid padding-off terrenos">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="tt">O seu melhor passeio está pertinho de São Paulo.</p>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
-                <div class="boxVideo">
-                    <video width="100%" height="auto" controls>
-                        <source src="<?= base_url(); ?>assets/video/video.mp4" type="video/mp4">
-                        <source src="<?= base_url(); ?>assets/video/video.ogg" type="video/ogg">
-                        Your browser does not support the video tag.
-                    </video>
-                </div>
-            </div>
-            <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 text-center">
-                <hr style="height:1px;border-width:0;color:#474f73;;background-color:#474f73;">
-            </div> -->
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="txt">
-                    A <strong>90 minutos</strong> da capital e a <strong>20 minutos</strong> da Fazenda Boa Vista, VILLAGE MANACÁ é um sofisticado residencial fechado, <br class="hidden-xs" />
-                    localizado em meio a uma grande área verde preservada, com árvores nativas, pássaros,<br class="hidden-xs" />
-                    lago e um magnífico pôr-do-sol para fechar os seus dias. Tudo isso rodeado por inúmeras opções de lazer:<br class="hidden-xs" />
-                    um horizonte repleto de atrações, que tornarão seus passeios de final de semana verdadeiramente inesquecíveis.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-<div id="seguranca" class="container-fluid padding-off terrenos">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="tt">Venha passear e viver no Village Manacá.</p>
+                <p class="tt">VENHA VIVER, PASSEAR E SER MAIS LIVRE NO VILLAGE MANACÁ.</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <hr class="hr1" style="height:1px;border-width:0;color:#ffffff;background-color:#ffffff;">
+                <hr class="hr1" style="height:1px;border-width:0;color:#474f73;background-color:#474f73;">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="txt_01">
@@ -99,7 +74,87 @@
                 </p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <hr class="hr1" style="height:1px;border-width:0;color:#ffffff;background-color:#ffffff;">
+                <hr class="hr1" style="height:1px;border-width:0;color:#474f73;background-color:#474f73;">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center">
+                <div class="boxVideo">
+                    <!-- <video width="100%" height="auto" controls>
+                        <source src="<?= base_url(); ?>assets/video/video.mp4" type="video/mp4">
+                        <source src="<?= base_url(); ?>assets/video/video.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video> -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r44-nLZQgBk"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                <p class="txt">
+                    A 20 minutos da Fazenda Boa Vista, VILLAGE MANACÁ é um sofisticado residencial fechado,<br class="hidden-xs" />
+                    localizado em meio a uma grande área verde preservada, com árvores nativas, pássaros, lago e um magnífico pôr-do-sol<br class="hidden-xs" />
+                    para fechar os seus dias. Tudo isso rodeado por inúmeras opções de lazer: um horizonte repleto de atrações,<br class="hidden-xs" />
+                    que tornarão seus passeios de final de semana verdadeiramente inesquecíveis.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid padding-off projeto">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
+                <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/casal.jpg" alt="Village Manac">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center txt">
+                <p>CONSTRUA SUA NOVA CASA E VIVA COM TODO O ESPAÇO,<br />
+                    PRIVACIDADE E LIBERDADE QUE MERECE.</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
+                <div class="galeria">
+                    <section class="glr-projeto slider">
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-02.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-03.jpg" alt="Village Manac">
+                        </div>
+                        <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-04.jpg" alt="Village Manac">
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center txt">
+                <p>VENHA CONHECER AS DEMAIS SUGESTÕES DE PROJETOS ARQUITETÔNICOS DE CASAS.<br />
+                    E ESCOLHA A CASA COM SEU ESTILO!</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-lg-offset-1 text-center">
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/thumb-projeto-01.jpg" alt="Village Manac">
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/thumb-projeto-02.jpg" alt="Village Manac">
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 margin-top-20 visible-xs">
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/thumb-projeto-03.png" alt="Village Manac">
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-3">
+                    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/thumb-projeto-04.jpg" alt="Village Manac">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="seguranca" class="container-fluid padding-off new-terrenos">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center tt">
+                <p>A TRANQUILIDADE E O BOM GOSTO JÁ COMEÇAM AO ENTRAR.</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
                 <div class="galeria">
@@ -107,36 +162,30 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-01.jpg" alt="Village Manac">
                         </div>
-                        <div>
+                        <!-- <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-02.jpg" alt="Village Manac">
-                        </div>
+                        </div> -->
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/portaria/portaria-03.jpg" alt="Village Manac">
                         </div>
                     </section>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+<div id="lazer" class="container-fluid padding-off faixa-village">
+    <div class="container">
+        <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="txt_04">segurança total</p>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <hr class="hr1" style="height:1px;border-width:0;color:#ffffff;background-color:#ffffff;">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="txt_05">
-                    Portaria e monitoramento 24 horas<br />
-                    Guaritas com controle de acesso. Rondas motorizadas.
-                </p>
+                <p class="tt">Divirta-se em seu horizonte de lazer.</p>
             </div>
         </div>
     </div>
 </div>
-<div id="lazer" class="container-fluid padding-off lazer">
+<div class="container-fluid padding-off lazer">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="tt">Divirta-se em seu <br class="visible-xs" />horizonte de lazer.</p>
-            </div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
                 <div class="galeria">
                     <section class="glr-lazer slider">
@@ -168,6 +217,9 @@
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-12.jpg" alt="Village Manac">
                         </div>
                         <div>
+                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-13.jpg" alt="Village Manac">
+                        </div>
+                        <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-14.jpg" alt="Village Manac">
                         </div>
                         <div>
@@ -179,12 +231,9 @@
                         <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-17.jpg" alt="Village Manac">
                         </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-18.jpg" alt="Village Manac">
-                        </div>
-                        <div>
+                        <!-- <div>
                             <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/lazer/lazer-19.jpg" alt="Village Manac">
-                        </div>
+                        </div> -->
                     </section>
                 </div>
             </div>
@@ -222,13 +271,12 @@
         </div>
     </div>
 </div>
-<div id="natureza" class="container-fluid padding-off faixa-natureza">
+<div id="natureza" class="container-fluid padding-off faixa-projeto">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="tt">Seus passeios terão<br />
-                    uma maravilhosa companheira:<br />
-                    a natureza.</p>
+                <p class="tt">Aqui, sua nova vida terá uma maravilhosa companheira:<br />
+                    a natureza</p>
             </div>
         </div>
     </div>
@@ -293,41 +341,14 @@
         </div>
     </div>
 </div>
-<div class="container-fluid padding-off faixa-projeto">
+<div id="localizacao" class="container-fluid padding-off faixa-village">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <p class="tt">Projetos inspiradores para sua nova vida.</p>
+                <p class="tt">VENHA CONHECER TODOS OS DETALHES DO VILLAGE MANACÁ.</p>
             </div>
         </div>
     </div>
-</div>
-<div class="container-fluid padding-off projeto">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
-                <div class="galeria">
-                    <section class="glr-projeto slider">
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-01.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-02.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-03.jpg" alt="Village Manac">
-                        </div>
-                        <div>
-                            <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/projeto/projeto-04.jpg" alt="Village Manac">
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div id="localizacao" class="container-fluid mapa">
-    <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/mapa.png" alt="Village Manac">
 </div>
 <div class="container-fluid padding-off localizacao">
     <div class="container">
@@ -356,36 +377,25 @@
         </div>
     </div>
 </div>
-<div id="contato" class="container-fluid padding-off contato">
+<div id="preco" class="container-fluid padding-off contato">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <span class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 padding-off boxValor">
-                    <div class="col-xs-12 col-sm-12 col-md-12 padding-off terreno500">
-                        <p>TERRENOS DE 500 M²</p>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-12 padding-off">
-                        <span class="valor500">
-                            <span class="mil200">
-                                <p class="text-left">A partir de</p>
-                                <p>R$ <span>205 mil</span></p>
-                            </span>
-                            <span class="finan">
-                                <p>Financiados em<br />
-                                    36X sem juros ou <br />em 60 meses*</p>
-                            </span>
-                        </span>
-                    </div>
-                </span>
-            </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                <p class="tt1">
+                    APROVEITE, CONDIÇÕES ESPECIAIS!
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <img class="img-responsive center-block novo-preco" src="<?= base_url(); ?>assets/images/novo-preco.png" alt="Village Manac">
+            </div>
+            <div id="contato" class="col-xs-12 col-sm-12 col-md-12 text-center">
                 <p class="tt">
                     Tire suas dúvidas<br />
                     e venha viver novos horizontes.
                 </p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 col-md-offset-3 padding-off">
-                <form method="post" role="form" action="<?php echo base_url("contato") ?>">
+                <form method="post" role="form" id="novoForm" action="<?php echo base_url("contato") ?>">
                     <div class="group-form">
                         <div class="col-xs-12 col-sm-12 col-md-12">
                             <div class="form-group">
