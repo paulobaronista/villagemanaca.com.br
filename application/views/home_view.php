@@ -53,7 +53,7 @@
         </section>
     </div>
 </div>
-<div  id="conceito" class="container-fluid padding-off terrenos">
+<div id="conceito" class="container-fluid padding-off terrenos">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
@@ -371,7 +371,8 @@
                 <img class="img-responsive center-block" src="<?= base_url(); ?>assets/images/boituva-05.png" alt="Village Manac">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                <h4>RODOVIA CASTELO BRANCO - SAÍDA KM 143A<br />
+                <h5>• a 10 min do Mavsa Resort <br class="visible-xs" />• A 15 min de Boituva</h5>
+                <h4>RODOVIA CASTELO BRANCO - SAÍDA KM 143 A - cesário lange<br />
                     (11) 95555 8299</h4>
             </div>
         </div>

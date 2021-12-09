@@ -312,10 +312,26 @@
         font-weight: bold;
         font-style: normal;
         font-size: 20px;
-        line-height: 25px;
+        line-height: 30px;
         color: #474f73;
         letter-spacing: 2px;
-        margin-top: 40px;
+        margin-top: 20px;
+        text-transform: uppercase;
+    }
+
+    h5 {
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-weight: 500;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 28px;
+        color: #ffffff;
+        background-color: #474f73;
+        letter-spacing: 2px;
+        display: table;
+        margin: 40px auto 0;
+        text-transform: uppercase;
+        padding: 0 10px;
     }
 }
 
@@ -495,7 +511,8 @@
             margin-bottom: 40px;
         }
 
-        h4 {
+        h4,
+        h5 {
             font-size: 20px;
             line-height: 30px;
         }
