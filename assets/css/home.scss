@@ -246,7 +246,7 @@
 
     .txt {
         padding-top: 40px;
-        padding-bottom: 40px;
+        padding-bottom: 30px;
 
         p {
             font-family: 'ITC Avant Garde Gothic Std Demi';
@@ -256,6 +256,24 @@
             line-height: 30px;
             color: #ffffff;
             text-transform: uppercase;
+        }
+    }
+
+    .txt2 {
+        padding-bottom: 40px;
+
+        p {
+            font-family: 'ITC Avant Garde Gothic Std Demi';
+            font-weight: normal;
+            font-style: normal;
+            font-size: 18px;
+            line-height: 30px;
+            color: #474f73;
+            background-color: #ffffff;
+            text-transform: uppercase;
+            display: table;
+            margin: 0 auto;
+            padding: 3px 15px 3px;
         }
     }
 }

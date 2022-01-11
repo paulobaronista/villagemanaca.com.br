@@ -53,7 +53,7 @@
         </section>
     </div>
 </div>
-<div  id="conceito" class="container-fluid padding-off terrenos">
+<div id="conceito" class="container-fluid padding-off terrenos">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
@@ -108,6 +108,9 @@
             <div class="col-xs-12 col-sm-12 col-md-12 text-center txt">
                 <p>CONSTRUA SUA NOVA CASA E VIVA COM TODO O ESPAÇO,<br />
                     PRIVACIDADE E LIBERDADE QUE MERECE.</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center txt2">
+                <p>Visite a casa modelo</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2 text-center">
                 <div class="galeria">
@@ -427,7 +430,7 @@
         <button type="button" class="close" id="close"><span aria-hidden="true">&times;</span></button>
         <p>O e-mail não pode ser enviado!<br />
             <strong>Tente novamente!</strong><br />
-            Se o problema persistir, entre em contato pelo Telefone <strong>contato@nrvillagemanaca.com.br</strong>
+            Se o problema persistir, entre em contato pelo Telefone <strong>contato@villagemanaca.com.br</strong>
         </p>
     </div>
 </div>

@@ -245,7 +245,7 @@
 
 .projeto .txt {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 .projeto .txt p {
@@ -256,6 +256,24 @@
   line-height: 30px;
   color: #ffffff;
   text-transform: uppercase;
+}
+
+.projeto .txt2 {
+  padding-bottom: 40px;
+}
+
+.projeto .txt2 p {
+  font-family: 'ITC Avant Garde Gothic Std Demi';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #474f73;
+  background-color: #ffffff;
+  text-transform: uppercase;
+  display: table;
+  margin: 0 auto;
+  padding: 3px 15px 3px;
 }
 
 .new-terrenos {
